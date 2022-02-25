@@ -6,3 +6,7 @@ Tech Stack:
 Chrome Extension: JavaScript, HTML
 
 Website: MongoDB, Express.js, React.js, Node.js
+
+Idea:
+- Chrome extension talks to MongoDB backend
+- Auth using ___
